@@ -60,8 +60,8 @@ h1 {
 .modal {
     display: none;
     position: absolute;
-    top: 2rem;
-    right: 2rem;
+    top: -10px;
+    right: -10px;
     z-index: 1000;
 }
 
